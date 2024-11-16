@@ -3,4 +3,4 @@ age=prompt("Enter your age");
 console.log(`you are ${age +1} years old`);
 console.log ("Do you have aadhar?");
 console.log("greetings");
-console.log("closures");
+console.log("Good buy!!!");
